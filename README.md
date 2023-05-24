@@ -3,7 +3,7 @@
 
 - 🔭 Formado em analise e desenvolvimento de sistemas com 10 anos de experiência na area de Service Desk, e  3 anos com experiência em Infraestrutura, Segurança Cibernética e Desenvolvedor Jira.
 
-- Em transição de carreira para Desenvolvedor back-end Java.
+- Em transição de carreira para Desenvolvedor Front-End.
  
 
 
